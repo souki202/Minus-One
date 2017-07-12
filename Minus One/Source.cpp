@@ -4,7 +4,7 @@
 
 int min[100000] = {0};
 int min2[100000] = { 0 };
-long long dp[100000] = {1, 0};
+long long dp[100000] = {1, 0}; //全くDPではない模様
 long long dp2[100000] = { 1, 0 };
 
 int main() {
